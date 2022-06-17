@@ -1,0 +1,23 @@
+.lead{
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-left: 155px;
+
+}
+.bg-primary{
+    background-color:burlywood !important;
+}
+.form{
+    font-weight: bolder;
+    margin-top: 5rem;
+    margin-left: 3rem;
+}
+.small{
+    font-size: 25px;
+    margin-left: 25px
+}
+.carousel-inner{
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
